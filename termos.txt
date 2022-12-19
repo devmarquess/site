@@ -1,0 +1,18 @@
+Termos de uso Carone Hub
+
+Data de Vigência: 24 de janeiro de 2020.
+Última revisão em 24 de janeiro de 2020.
+
+1 - Reservamo-nos o direito, a nosso critério, de alterar, modificar ou alterar esta Política a qualquer momento. Você pode encontrar a versão mais recente desta política a https://raw.githubusercontent.com/devmarquess/site/master/termos.txt, com a data da última modificação mencionado acima. Tais modificações entrarão em vigor imediatamente após a postagem dos mesmos no site. Portanto, nós encorajamos você a verificar a data desta Política sempre que você acessar ou utilizar uma aplicação, os Serviços ou o site para verificar se essa Política foi atualizada. Você deve rever esta política em uma base regular para manter-se a par das alterações. Se você não concordar com quaisquer modificações a esta Política, seu único recurso é interromper imediatamente o uso de todos os aplicativos, os Serviços e do Site. O uso continuado de qualquer aplicação, dos Serviços ou do Site após a publicação de quaisquer alterações a esta Política constituirá a sua aceitação da Política revisada. Se você tiver alguma dúvida sobre esta política, por favor contacte-nos em as informações de contato listadas no final desta Política. Por favor, note que nenhum dos nossos funcionários ou agentes tem a autoridade para alterar qualquer uma das nossas políticas.
+
+Esta política abrange a recolha, utilização e divulgação de suas informações através das aplicações, dos Serviços e do Site. Ele não cobre qualquer recolha, utilização ou divulgação por terceiros através de quaisquer aplicativos, sites, produtos ou serviços que não controlam ou possuem, tais como Facebook, ou quaisquer recursos ou serviços de terceiros disponibilizados através de um aplicativo, os Serviços ou o site. Todas as marcas comerciais, nomes comerciais e logotipos de terceiros destaque nas Aplicações ou o site pertencem aos seus respectivos proprietários.
+
+Abaixo é explicado melhor oque coletamos/ oque não coletamos.
+
+1 - Porque o app "Carone HUB" solicita permissões de Camera?
+
+Para ler códigos de barras apenas isso, não é usado usado para outros fins.
+
+2 - Porque solicitamos a permissão de telefone/chamadas?
+
+Para verificar imeis cadastrados no sistema, app de uso interno só pode acessar os usuários de quadro interno da empresa.
