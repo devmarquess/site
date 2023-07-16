@@ -1,18 +1,28 @@
-Termos de uso Carone Hub
+Política de privacidade PROFILES CAM.
 
-Data de Vigência: 24 de janeiro de 2020.
-Última revisão em 19 de dezembro de 2022.
+ÚLTIMA REVISÃO 16 DE JULHO DE 2023.
 
-1 - Reservamo-nos o direito, a nosso critério, de alterar, modificar ou alterar esta Política a qualquer momento. Você pode encontrar a versão mais recente desta política a https://raw.githubusercontent.com/devmarquess/site/master/termos.txt, com a data da última modificação mencionado acima. Tais modificações entrarão em vigor imediatamente após a postagem dos mesmos no site. Portanto, nós encorajamos você a verificar a data desta Política sempre que você acessar ou utilizar uma aplicação, os Serviços ou o site para verificar se essa Política foi atualizada. Você deve rever esta política em uma base regular para manter-se a par das alterações. Se você não concordar com quaisquer modificações a esta Política, seu único recurso é interromper imediatamente o uso de todos os aplicativos, os Serviços e do Site. O uso continuado de qualquer aplicação, dos Serviços ou do Site após a publicação de quaisquer alterações a esta Política constituirá a sua aceitação da Política revisada. Se você tiver alguma dúvida sobre esta política, por favor contacte-nos em as informações de contato listadas no final desta Política. Por favor, note que nenhum dos nossos funcionários ou agentes tem a autoridade para alterar qualquer uma das nossas políticas.
 
-Esta política abrange a recolha, utilização e divulgação de suas informações através das aplicações, dos Serviços e do Site. Ele não cobre qualquer recolha, utilização ou divulgação por terceiros através de quaisquer aplicativos, sites, produtos ou serviços que não controlam ou possuem, tais como Facebook, ou quaisquer recursos ou serviços de terceiros disponibilizados através de um aplicativo, os Serviços ou o site. Todas as marcas comerciais, nomes comerciais e logotipos de terceiros destaque nas Aplicações ou o site pertencem aos seus respectivos proprietários.
+Ao acessar este sistema, você, aceitará e se obrigará ao seguinte:  
 
-Abaixo é explicado melhor oque coletamos/ oque não coletamos.
+Termo de Uso:
 
-1 - Porque o app "Carone HUB" solicita permissões de Camera?
+1. Você admite e concorda que a Internet caracteriza-se por um alto grau de dinamismo em suas relações, bem como por questões peculiares relacionadas à segurança e privacidade. Portanto, você aceita que este Termo de Uso possa ser modificado pelo Profiles Cam (marcas e domínios pertencentes ao DevMarques) a qualquer tempo, sem necessidade de notificação prévia a você,  sendo que tais modificações se tornarão válidas a partir da data de sua veiculação neste aplicativo. 
 
-Para ler códigos de barras apenas isso, não é usado usado para outros fins.
+2. Ao concordar com nossos termos você está ciente que não deve: Compartilhar os presets distribuídos aqui. Sendo eles de uso exclusivo e individual. Caso ocorra uma violação nesse requerimento. O usuário poderá ser banido sem aviso prévio, e sem direito a reembolso. 
 
-2 - Porque solicitamos a permissão de telefone/chamadas?
+3. Todos os seus dados estão protegidos, dados relacionados (Login Google), nenhum dado como e-mail, nome e qualquer outro dado não é repassados a terceitos. 
 
-Para verificar imeis cadastrados no sistema, app de uso interno só pode acessar os usuários de quadro interno da empresa.
+4. Ao permitir acesso a arquivos você está ciente que o app ProfilesCam solicita essa permissão apenas como fim de salvar, listar os arquivos distribuídos no app como Presets de lightroom nada mais, não acessamos quaisquer outros arquivos.
+
+5. Eventualmente, o DevMarques poderá disponibilizar em seu aplicativo links de acesso para outros sites. DevMarques não terá qualquer responsabilidade pelos serviços ou funcionalidades dispostos por tais outros sites, eis que a decisão de utilização e a forma de relacionamento de tais outros sites é exclusivamente sua. Você concorda, ainda, que não é dever do Profiles cam fiscalizar o conteúdo de tais outros sites. 
+
+6. O aplicativo poderá disponibilizar noticiários, matérias ou editoriais compilados ou escritos por terceiros. O aplicativo não se responsabiliza pela exatidão, procedência e autoria de tais materiais.
+
+7. Você não deverá reproduzir, modificar, realizar engenharia reversa, compilar, descompilar, transmitir, publicar, sublicenciar, permitir, autorizar, alugar, vender, e/ou distribuir, ou, de qualquer outra forma não permitida neste Termo de Uso, utilizar ou transferir, no todo ou em parte, qualquer CONTEÚDO direta ou indiretamente relacionados ao presente Termo de Uso, sem prévia e expressa autorização, por escrito, da DevMarques ou dos terceiros proprietários, quando for o caso,sem previa autorização é caracterizado Crime aplicada a Lei 9.609/98.
+
+8. Usuários(a) que usam lucky patcher como serviço de crackeamento de apps será banido instantâneamente, sem direito a reembolso, apenas a finalização de assinatura > Google Play > Minhas Assinaturas.
+
+Informações Gerais: Contato: dev.marquess@gmail.com 
+
+Última revisão: 16-08-2023.
